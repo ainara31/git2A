@@ -3,3 +3,6 @@ para hacer esto utilizamos el comando:
 git pull origin master
 o si trabajamos en rama main
 git pull origin main 
+
+
+
